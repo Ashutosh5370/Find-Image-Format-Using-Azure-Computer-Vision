@@ -1,0 +1,1 @@
+# Find-Image-Format-Using-Azure-Computer-Vision
